@@ -70,6 +70,3 @@ Overvej:
 
 Skriv 2–3 korte tanker til dig selv.
 
----
-
-Sig til, hvis du vil have **Øvelse 4** formuleret i samme stil.
