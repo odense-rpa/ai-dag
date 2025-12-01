@@ -26,5 +26,5 @@ npm install -g @github/copilot
 # Clone vores git repo
 
 ```
-git clone <repo>
+git clone https://github.com/odense-rpa/ai-dag.git
 ```
