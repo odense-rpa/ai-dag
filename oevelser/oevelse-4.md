@@ -47,7 +47,7 @@ Du skal ikke skrive noget selv endnu.
 * Brug Copilot CLI til at:
 
   * foreslå relevante tests for funktionerne
-  * oprette en `test_utils.py` med pytest-tests
+  * oprette en `test_utils.py` med pytest
   * forklare sin teststrategi, før den implementerer den
 
 Du bestemmer selv, hvordan du formulerer opgaven — men giv Copilot en *samlet opgave*, ikke et mikrotrin.
